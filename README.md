@@ -1,16 +1,13 @@
-# flutter_gastos
+# APP Flutter
+APP Flutter construída para gerenciar contas
 
-A new Flutter project.
+## Introdução
 
-## Getting Started
+Nessa APP realizamos a integração da API Flask que criamos anteriormente
 
-This project is a starting point for a Flutter application.
+## Execução da aplicação
+Para executar a aplicação, recomenda-se utilizar o Android Studio e criar um host no AVD Manager para execução da aplicação através de um emulador.
 
-A few resources to get you started if this is your first Flutter project:
+Segue uma demonstração da execução da aplicação:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](VideoFlask.gif)
