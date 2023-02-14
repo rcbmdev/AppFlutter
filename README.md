@@ -10,4 +10,4 @@ Para executar a aplicação, recomenda-se utilizar o Android Studio e criar um h
 
 Segue uma demonstração da execução da aplicação:
 
-![](VideoFlask.gif)
+![](VideoFlutter.gif)
